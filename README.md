@@ -18,7 +18,7 @@ A simplified clone of the Product Hunt homepage, built using Next.js, Mantine UI
 
 ## Demo
 
-![Product Hunt Clone Screenshot](![pic1](https://github.com/user-attachments/assets/42e42197-551f-41bc-8139-31511666c7fa))
+![pic1](https://github.com/user-attachments/assets/42e42197-551f-41bc-8139-31511666c7fa)
 
 ## Features
 
